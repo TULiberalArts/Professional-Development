@@ -1,13 +1,13 @@
 ---
 # global predefined variables
 layout: tla_faculty
-permalink: /advising-staff/
+permalink: /staff/
 published: true
 # meta-data variables
 title: Advising Staff
-keywords: 'advising, staff, academics'
+keywords: 'professional development, staff, academics'
 # custom variables
-faculty: profiles/faculty.html
+faculty: 
 ---
 Our knowledgeable and dedicated team of academic advisors will be with you from the moment you arrive on campus for orientation through your graduation day.
 ___
