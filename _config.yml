@@ -2,11 +2,11 @@
 # Program/Department Title
 title: Professional Development
 # Subdirectory (with / at only at beginning)
-baseurl: /academic-advising
+baseurl: /professional-development
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
 # url spits sitemap
-url: https://www.cla.temple.edu/academic-advising
+url: https://www.cla.temple.edu/professional-development
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
@@ -19,7 +19,7 @@ tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
 description:
 # List of related keywords for search engines
-keywords: highered, college, university, philadelphia, Temple
+keywords: highered, college, careers, internships, Temple, College of Liberal Arts, professional development
 
 # Address
 address:
