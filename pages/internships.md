@@ -7,7 +7,7 @@ published: true
 title: Internships
 # custom variables
 ---
-![CLA Graduation]({{site.baseurl}}/media/resized AdvisingGraduation.png){:.responsive-img .img-right}
+![Internships]({{site.baseurl}}/media/resized Internships.png){:.responsive-img .img-right}
 As a College of Liberal Arts (CLA) student you’ll learn to think critically, solve problems and communicate effectively. These core skills are critical in virtually any job, according to the Bureau of Labor Statistics. But getting hired after graduation often requires more than just skills. Employers want someone with relevant experience. That’s where internships come in. Discover [why you should get an internship](#why-should-you-get-an-internships), find out [how and when](#how-and-when-should-you-secure-an-internship) to do so and [how to fit one in](#how-will-you-have-time-for-an-internship) once you’re a student.
 
 ## Why Should You Get an Internship(s)?
