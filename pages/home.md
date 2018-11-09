@@ -5,7 +5,7 @@ permalink: /
 published: true
 # meta-data variables
 title: Home
-keywords: 'advising, dars, appointments, professional development'
+keywords: 'professional development, careers, internships'
 # custom variables
 feature: true
 feature-title: false
@@ -13,43 +13,39 @@ feature-image: media/advisinghero.png
 feature-body: false
 promotion-table: true
 ---
-The Center for Academic Advising and Professional Development counsels students on issues relating to both classroom and career. We can help you navigate your curriculum, choose a major, explore career opportunities and determine your post-graduation plans.
+![Professional Development Staff]({{site.baseurl}}/media/resized professionaldevelopmentstaff.jpg){:.responsive-img .img-right}
+The student professional development program within the College of Liberal Arts is committed to enhancing students’ professionalism and empowering students to present themselves successfully as candidates for internship, employment and post-secondary education opportunities.
 
-## Make an Appointment
-If you would like to meet with an advisor, call [215-204-7971](tel:2152047971) to make an appointment.
+All of our advisors are Strong Interest Inventory-certified practitioners. The Strong Interest Inventory is a widely used, highly respected and validated career planning tool used to help guide students towards occupations, careers and work environments that fit their intellectual, academic and personal interests. Strong Interest Inventory, along with other career planning tools, are integrated into the College of Liberal Arts' required professional development course and utilized with students in one-on-one professional development appointments. These tools assist our staff in helping students explore options for academic majors, clubs and activities, internships and post-graduation career paths.
 
-Same day academic appointments are available on a first-come, first-served basis on the main campus. At the beginning of the semester—during priority registration and new student orientations—many students utilize our services, so it pays to plan ahead. During non-peak times, you may schedule an appointment as much as five business days in advance.
+### We Offer:
+**Career Counseling** - We offer individualized attention to each student on topics ranging from career assessments and résumés to interview skills and graduate school preparation.
 
-We also offer academic advising at the Ambler and Center City (TUCC) campuses. Please call [267-468-8200](tel:2674688200) to schedule an appointment at Ambler. If you wish to be advised at TUCC, please email [Paula Robison](mailto:Paula.Robison@temple.edu).
+**Career Seminar** - We teach all students how their liberal arts skill set translates to the marketplace in our required 1-credit course.
 
-## Be Prepared
-Before your academic advising appointment, please check your DARS to review completed and unfulfilled requirements:
+**Internships** - We assist our students in gaining valuable real-world experience with employers from the Philadelphia region and beyond.
 
-- Go to: [dars.temple.edu](http://dars.temple.edu/)
-- Log in, using your TU username and password
-- Click “Run Audit”
-- A history of previous DARS Audits will appear, select the most recent one (the one on top) by clicking “View Audit”
-- Your current DARS Audit will appear
+**Workshops & Events** - We partner with alumni, faculty, and employers to help every student build a professional network.
 
 ___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-basic.html
-    title="FAQ's"
-    content="New to the College of Liberal Arts and have questions? Visit or New Student FAQ page!"
-    button-link="/academic-advising#new-student-faq/"
+    title=""
+    content=""
+    button-link=""
     button-text="Learn More" %}
   </div>
   <div class="col m12 l4">{% include cards/card2-basic.html
-    title="Meet or Academic and Peer Advisors!"
-    content="Need Content"
-    button-link="/academic-advising#advising-staff/"
+    title=""
+    content=""
+    button-link=""
     button-text="Learn More" %}
     </div>
     <div class="col m12 l4">{% include cards/card2-basic.html
-      title="Ready for Graduation?"
-      content="Visit our graduation page to get all of the details you need to ensure you are on track for graduation."
-      button-link="/academic-advising#graduation/"
+      title=""
+      content=""
+      button-link=""
       button-text="Learn More" %}
     </div>
 </div>
