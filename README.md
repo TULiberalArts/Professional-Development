@@ -1,12 +1,12 @@
-# Academic Advising
+# Professional Development
 
 [![Build Status][travis-img]][travis]
 
-Acadmic-Advising is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
+Professional-Development is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
 
 | Links |  |
 | --- | --- |
-| Development | https://develop.cla.temple.edu/academic-advising/ |
+| Development |  |
 | Production |  |
 
 ## Content Structure
@@ -26,10 +26,10 @@ If you discover typographic errors, bugs, or have problems navigating this site 
 [Pull requests][pr] are also welcome if you would like to contribute or edit page content. [Prose.io][prose] is a quick and convenient way to edit content in [Markdown][md].
 
 
-[travis]: https://travis-ci.org/TULiberalArts/Academic-Advising
-[travis-img]: https://travis-ci.org/TULiberalArts/Academic-Advising.svg?branch=master
+[travis]: https://travis-ci.org/TULiberalArts/Professional-Development
+[travis-img]: https://travis-ci.org/TULiberalArts/Professional-Development.svg?branch=master
 [jekyll]: https://https://jekyllrb.com
-[issue]: https://github.com/TULiberalArts/Academic-Advising/issues
+[issue]: https://github.com/TULiberalArts/Professional-Development/issues
 [pr]: https://help.github.com/articles/about-pull-requests/
-[prose]: https://prose.io/#TULiberalArts/Academic-Advising
+[prose]: https://prose.io/#TULiberalArts/Professional-Development
 [md]: http://whatismarkdown.com/
