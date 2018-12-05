@@ -4,7 +4,7 @@ layout: tla_faculty
 permalink: /staff/
 published: true
 # meta-data variables
-title: Advising Staff
+title: Professional Development Staff
 keywords: 'professional development, staff, academics'
 # custom variables
 faculty: 
