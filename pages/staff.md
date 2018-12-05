@@ -10,6 +10,7 @@ keywords: 'professional development, staff, academics'
 faculty: 
 ---
 Our knowledgeable and dedicated team of professional advisors will help you find an internship as well as help prepare you for your career path while at Temple and beyond.
+
 ___
 
 ![Anne Bayless]({{site.baseurl}}/media/Anne-Bayless.jpg){:.responsive-img .img-right}
