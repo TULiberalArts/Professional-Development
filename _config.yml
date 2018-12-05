@@ -7,6 +7,7 @@ baseurl: /professional-development
 production: https://www.cla.temple.edu
 # url spits sitemap
 url: https://www.cla.temple.edu/professional-development
+faculty-page: /staff/
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
@@ -19,7 +20,7 @@ tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
 description:
 # List of related keywords for search engines
-keywords: highered, college, careers, internships, Temple, College of Liberal Arts, professional development
+keywords: professional development, college, careers, internships, Temple, College of Liberal Arts
 
 # Address
 address:
