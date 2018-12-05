@@ -8,7 +8,7 @@ title: Career Seminar
 keywords: 'advising, faq, current students'
 # custom variables
 ---
-![Temple Fest]({{site.baseurl}}/media/SeminarPic.jpg){:.responsive-img .img-center}
+![Career Seminar Class]({{site.baseurl}}/media/SeminarPic.jpg){:.responsive-img .img-right}
 ## Career Seminar
 In our frequently changing economy, a liberal arts degree has never been more valuable. This one-credit seminar (CLA 1002) will focus on the flexibility of a liberal arts degree and will prepare students to pursue careers in various industries, including government, non-profit, corporate, education, etc. Upon successful completion of this course, students will have developed the skills necessary to effectively search for career opportunities and communicate professionally.
 
