@@ -29,7 +29,7 @@ All of our advisors are Strong Interest Inventory-certified practitioners. The S
 
 ___
 
-## Where Can your Internship Take you?
+## Where Can Your Internship Take you?
 
 <div class="video-container">
   <iframe width="560" height="315" src="https://youtu.be/Gdn28mUvR4Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
