@@ -18,7 +18,7 @@ The student professional development program within the College of Liberal Arts 
 
 All of our advisors are Strong Interest Inventory-certified practitioners. The Strong Interest Inventory is a widely used, highly respected and validated career planning tool used to help guide students towards occupations, careers and work environments that fit their intellectual, academic and personal interests. Strong Interest Inventory, along with other career planning tools, are integrated into the College of Liberal Arts' required professional development course and utilized with students in one-on-one professional development appointments. These tools assist our staff in helping students explore options for academic majors, clubs and activities, internships and post-graduation career paths.
 
-### We Offer:
+## We Offer:
 **Career Counseling** - We offer individualized attention to each student on topics ranging from career assessments and résumés to interview skills and graduate school preparation.
 
 **Career Seminar** - We teach all students how their liberal arts skill set translates to the marketplace in our required 1-credit course.
@@ -26,6 +26,14 @@ All of our advisors are Strong Interest Inventory-certified practitioners. The S
 **Internships** - We assist our students in gaining valuable real-world experience with employers from the Philadelphia region and beyond.
 
 **Workshops & Events** - We partner with alumni, faculty, and employers to help every student build a professional network.
+
+___
+
+## Where Can your Internship Take you?
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://youtu.be/Gdn28mUvR4Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 ___
 
