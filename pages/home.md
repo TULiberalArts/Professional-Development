@@ -13,6 +13,7 @@ feature-image: media/advisinghero.png
 feature-body: false
 promotion-table: true
 ---
+## We'e Here to Help You Build Your Path!
 ![Professional Development Staff]({{site.baseurl}}/media/resized professionaldevelopmentstaff.jpg){:.responsive-img .img-right}
 The student professional development program within the College of Liberal Arts is committed to enhancing students’ professionalism and empowering students to present themselves successfully as candidates for internship, employment and post-secondary education opportunities.
 
@@ -32,7 +33,7 @@ ___
 ## Where Can Your Internship Take you?
 
 <div class="video-container">
-  <iframe width="560" height="315" src="https://youtu.be/Gdn28mUvR4Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Gdn28mUvR4Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ___
