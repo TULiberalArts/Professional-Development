@@ -13,7 +13,7 @@ feature-image: media/advisinghero.png
 feature-body: false
 promotion-table: true
 ---
-## We'e Here to Help You Build Your Path!
+## We're Here to Help You Build Your Path!
 ![Professional Development Staff]({{site.baseurl}}/media/resized professionaldevelopmentstaff.jpg){:.responsive-img .img-right}
 The student professional development program within the College of Liberal Arts is committed to enhancing students’ professionalism and empowering students to present themselves successfully as candidates for internship, employment and post-secondary education opportunities.
 
