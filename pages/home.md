@@ -37,7 +37,7 @@ Your job/internship search experience just got a whole lot better with Handshake
 - 14,000+ Job & Internship Postings Annually for Temple Students
 - 100% of Fortune 500 Companies Use Handshake
 
-**_Log -In Today: [Temple.Joinhandshake.com_**](https://temple.joinhandshake.com/login)
+**_Log -In Today: [Temple.Joinhandshake.com](https://temple.joinhandshake.com/login)_**
 
 ___
 
