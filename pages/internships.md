@@ -37,7 +37,7 @@ You can also have your application materials reviewed and potentially be directl
 ## How Will You Have Time for an Internship?
 CLA students are eligible to complete up to 12 academic credits through internships. If you end up with many responsibilities and a tight schedule as a student, you can substitute an internship for an elective! Many students lighten their academic course load by adding up to 12 credits’ worth of internships in place of additional academic coursework. Students are able to register for an internship course through their department’s internship coordinator and the CLA Professional Development team.
 
-## Where Can Your Internship Take you?
+## Where Can Your Internship Take You?
 
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Gdn28mUvR4Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
