@@ -42,9 +42,9 @@ ___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-basic.html
-    title="NEED CONTENT"
-    content=""
-    button-link=""
+    title="Internship Testimonials"
+    content="Read about what some of our students have said their internship opportunities and experiences!"
+    button-link="https://develop.cla.temple.edu/professional-development/internship-spotlight/"
     button-text="Learn More" %}
   </div>
   <div class="col m12 l4">{% include cards/card2-basic.html
