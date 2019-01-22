@@ -49,3 +49,8 @@ ___
 A journalist by trade, Patrick spent time working in the sports departments of the Philadelphia Daily News and the Philadelphia Bulletin before launching his own successful baseball publication. Along with his work as a baseball writer, Patrick has spent the better part of the past eight years at Temple managing services related to student professional development. Prior to joining the College of Liberal Arts, he assisted in the creation and managed a successful student professional development center across campus. In addition to working with undergraduates on resumes, cover letters, interview skills and job search strategies, Patrick also manages employer relations and connects CLA students with internship and job opportunities. He also assists students interested in learning more about graduate school. His main area of academic research is the analysis of the role of sport and media in times of national crisis. He is currently is in the final stages of publishing a book that examines the symbiotic relationship between nationalism, baseball and the media following the terror attacks of 9/11. He also works as an adjunct in the history and journalism departments.
 
 **Favorite Books:** _What It Takes To Be #1: Vince Lombardi on Leadership_ by Vince Lombardi Jr. and _To Every Thing a Season: Shibe Park and Urban Philadelphia_ by Bruce Kuklick
+
+___
+
+![Jerome Walker]({{site.baseurl}}/media/headshotjerome.jpg){:.responsive-img .img-right}
+**[Jerome Walker]()**<br>
