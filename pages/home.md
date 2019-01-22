@@ -14,7 +14,7 @@ feature-body: false
 promotion-table: true
 ---
 ## We're Here to Help You Build Your Path!
-![Professional Development Staff]({{site.baseurl}}/media/resized professionaldevelopmentstaff.jpg){:.responsive-img .img-right}
+![Professional Development Staff]({{site.baseurl}}/media/resized_newprofessionaldevelopmentgroup.jpg){:.responsive-img .img-right}
 The student professional development program within the College of Liberal Arts is committed to enhancing students’ professionalism and empowering students to present themselves successfully as candidates for internship, employment and post-secondary education opportunities.
 
 All of our advisors are Strong Interest Inventory-certified practitioners. The Strong Interest Inventory is a widely used, highly respected and validated career planning tool used to help guide students towards occupations, careers and work environments that fit their intellectual, academic and personal interests. Strong Interest Inventory, along with other career planning tools, are integrated into the College of Liberal Arts' required professional development course and utilized with students in one-on-one professional development appointments. These tools assist our staff in helping students explore options for academic majors, clubs and activities, internships and post-graduation career paths.
