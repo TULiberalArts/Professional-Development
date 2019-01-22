@@ -33,5 +33,5 @@ ___
 
 ___
 
-![Biance Taipe]({{site.baseurl}}/media/resized_biancetaipe.jpg){:.responsive-img .img-right}
+![Biance Taipe]({{site.baseurl}}/media/resized_biancetaipe.jpg){:.responsive-img .img-left}
 > _As a daughter of immigrants, I wanted to be involved with an organization whose mission was to support the immigrant and refugee community by leading them on a path to citizenship through low-cost legal services. As NSC's Legal Service Coordinator Intern, I had the opportunity to engage with over 50 refugees and their families as I guided them through the green card application process. Interning at NSC has only further fueled my passion for immigration reform and to pursue a career in immigration law. I am grateful for the time I've spent at NSC this semester and I look forward to interning for their legal team in the spring!_ - Biance Taipe
