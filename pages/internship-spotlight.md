@@ -18,6 +18,11 @@ ___
 
 ___
 
+![Moena Evans]({{site.baseurl}}/media/resized2_moenaevans.jpg){:.responsive-img .img-right}
+> _I enjoyed my internship and gained tons of information. I learned Domestic Violence can happen to anyone regardless of race and or your status. I also, learned that there's plenty of resources available for victims/survivors and DV advocates will be there to support every step of the way. This experience has impacted me in a huge way, because I now have the confidence to help someone else and even save a life. I now know what direction I want to go in, in my career._ - Moena Evans
+
+___
+
 ![Erin Houghton]({{site.baseurl}}/media/resized_erinhoughton.jpg){:.responsive-img .img-right}
 > _Interning at the 03rd district Philadelphia Police Department has been an unforgettable experience. Everyone I met was so kind and willing to teach me about their jobs. The police officers all have so much knowledge to share and truly want the interns to learn the workings of the police department and see what it is really like to be a police officer for the city of Philadelphia. My mentor taught me how to use the Philadelphia software programs and I learned basic skills such as writing 75-48As or doing prison searches. I definitely would recommend interning at the Philadelphia Police Department for any students interested in criminal justice. It is a great way to decide if policing is truly right for you._ - Erin Houghton
 
@@ -25,12 +30,6 @@ ___
 
 ![Ankit Deshmukh]({{site.baseurl}}/media/resized_ankitdeshmukh.jpg){:.responsive-img .img-right}
 > _Interning abroad is one of the most unique and eye opening experiences I’ve participated in. I interned at MediaLabCBG in Rome, a marketing and business strategy incubator. Since MediaLab CBG organizes and markets professional events for the American and Italian business/government communities in Rome, I worried that not having a background in business strategy or marketing would put me at a disadvantage. A week into the internship however, I felt completely confident in my skills as I realized that my experiences in the [College of Liberal Arts](https://liberalarts.temple.edu/) prepared me for these exact situations. Through my critical thinking ability, communication skills, and (most importantly) foreign language proficiency, I could comfortably adapt to an international workplace environment. My core liberal arts background has helped to make interning abroad one of my most professionally and personally fulfilling experiences. Based on my experience, I would recommend anyone thinking about studying abroad to also think about completing an internship abroad._ - Ankit Deshmukh
-
-___
-
-![Moena Evans]({{site.baseurl}}/media/resized2_moenaevans.jpg){:.responsive-img .img-right}
-> _I enjoyed my internship and gained tons of information. I learned Domestic Violence can happen to anyone regardless of race and or your status. I also, learned that there's plenty of resources available for victims/survivors and DV advocates will be there to support every step of the way. This experience has impacted me in a huge way, because I now have the confidence to help someone else and even save a life. I now know what direction I want to go in, in my career._ - Moena Evans
-
 
 ___
 
