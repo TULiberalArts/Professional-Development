@@ -59,9 +59,10 @@ Born and raised less than a mile away from Temple’s campus, Jerome’s grit an
 
 **Special Interests:** Minority Career Mentoring, Entrepreneurship (Social, Fashion, Lifestyle) , Interviewing, Networking, Transfer Students (non-traditional), First-Generation College Students
 
-## Peer Advisors 
-
 ___
+
+## Peer Advisors 
+**NEED A DESCRIPTION ABOUT WHAT THE PEER ADVISORS DO**
 
 ![Najah Springer]({{site.baseurl}}/media/resizedNajah .jpg){:.responsive-img .img-right}
 **[Najah Springer](mailto:najah.springer@temple.edu)**<br>
