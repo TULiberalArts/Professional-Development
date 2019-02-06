@@ -21,7 +21,7 @@ A big benefit to being a liberal arts major is that you’re able to be flexible
 
 In disciplines as broad as business to environmental research, our students demonstrate these skills on a consistent basis. For instance, Psychology major Amma-Sika Adomako recently put those skills to work in an Amazon human resources internship:
 
-![Amma Internship]({{site.baseurl}}/media/resized AdvisingGraduation.png){:.responsive-img .img-right}
+![Amma Internship]({{site.baseurl}}/media/resizedamma.jpg){:.responsive-img .img-right}
 >_“My experience interning in human resources with Amazon was nothing short of amazing. At first I was very nervous. I was not sure whether I would be up to par since I came from a liberal arts background. It was only after I began working that I realized I had all the skills to be successful in not only this environment but any work environment.”_
 
 ## Find Your Passion
