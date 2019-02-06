@@ -8,7 +8,7 @@ title: Career Development
 keywords: 'career development, current students, professional development'
 # custom variables
 ---
-![ETD]({{site.baseurl}}/media/resizedgroupshot.jpg){:.responsive-img .img-right}
+![ETD]({{site.baseurl}}/media/resizedgroupshotall.jpg){:.responsive-img .img-right}
 If you’re just thinking about enrolling at Temple University, your career probably seems a long way off. But those four years will be over before you know it, and then it’ll be time to land a job. Will you be ready? For students who work with College of Liberal Arts (CLA) career development advisors, the answer is yes! Discover [what you can do with your major](#what-can-i-do-with-my-major), [what career is right for you](#how-do-i-know-what-career-is-right-for-me), [what the best approaches to resumes, cover letters and interviews are](#whats-the-right-approach-to-resumes-cover-letters-and-interviews), and [how to tie your career plan to your academic plan](#how-do-i-tie-my-academic-plan-to-my-career-plan).
 
 ## What Can I Do with My Major?
