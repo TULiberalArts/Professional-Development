@@ -19,9 +19,9 @@ The network you create at an internship can connect you to job opportunities. So
 ## Gain Experience
 A big benefit to being a liberal arts major is that you’re able to be flexible in the work environment. Employers are looking to hire well-rounded and adaptable professionals who will meet the needs of an ever-changing work culture. In fact, the [Institute for the Future](https://www.delltechnologies.com/content/dam/delltechnologies/assets/perspectives/2030/pdf/SR1940_IFTFforDellTechnologies_Human-Machine_070517_readerhigh-res.pdf) predicts 85 percent of the jobs that will exist in 2030 haven’t even been invented yet. CLA students are known to be intellectually sharp and culturally nimble.
 
+![Amma Internship]({{site.baseurl}}/media/resizedamma.jpg){:.responsive-img .img-right}
 In disciplines as broad as business to environmental research, our students demonstrate these skills on a consistent basis. For instance, Psychology major Amma-Sika Adomako recently put those skills to work in an Amazon human resources internship:
 
-![Amma Internship]({{site.baseurl}}/media/resizedamma.jpg){:.responsive-img .img-right}
 >_“My experience interning in human resources with Amazon was nothing short of amazing. At first I was very nervous. I was not sure whether I would be up to par since I came from a liberal arts background. It was only after I began working that I realized I had all the skills to be successful in not only this environment but any work environment.”_
 
 ## Find Your Passion
