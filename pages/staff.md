@@ -61,7 +61,7 @@ Born and raised less than a mile away from Temple’s campus, Jerome’s grit an
 
 ## Peer Advisors 
 
-![Najah Springer]({{site.baseurl}}/media/resizedNajah.jpg){:.responsive-img .img-right}
+![Najah Springer]({{site.baseurl}}/media/resizedNajah .jpg){:.responsive-img .img-right}
 **[Najah Springer](mailto:najah.springer@temple.edu)**<br>
 **Career Peer Advisor**<br>
 **Global Studies, 2020**<br>
