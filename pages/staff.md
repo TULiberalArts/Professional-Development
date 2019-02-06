@@ -57,7 +57,7 @@ ___
 
 Born and raised less than a mile away from Temple’s campus, Jerome’s grit and determination has created many opportunities that align his passion with his purpose. After finishing graduate school, Jerome relocated to Charlotte NC where he began his entrepreneurial journey as he wanted to explore both his passion for fashion and lifestyle. During his time in Charlotte, Jerome was able to create a streetwear/menswear clothing line, work as a part-time visual merchandiser for Michael Kors, and Co-host a podcast. Jerome initially began his professional career while completing his Master’s degree working in Admissions and Multicultural Student Affairs. He then spent 4 years working in community college system In Charlotte, NC where he developed his interest for professional development, transfer and career services. Currently, serving as a career coach in the College of Liberal Arts (CLA) he spends a significant amount of time holistically preparing students for professional internship opportunities. He also oversees the PDSA (Professional Development Student Association) and teach sections of CLA 1002. Jerome’s mission is to help students create a spark as he feels that spark will turn into a flame that is unstoppable!
 
-**Special Interests:** Minority Career Mentoring, Entrepreneurship (Social, Fashion, Lifestyle) , Interviewing, Networking, Transfer Students (non-traditional) , First-Generation College Students
+**Special Interests:** Minority Career Mentoring, Entrepreneurship (Social, Fashion, Lifestyle) , Interviewing, Networking, Transfer Students (non-traditional), First-Generation College Students
 
 ## Peer Advisors 
 
