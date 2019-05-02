@@ -34,7 +34,7 @@ ___
   <div class="col m12 l4">{% include cards/card2-basic.html
     title="Get Started"
     content="Schedule an appointment to meet with a member of our team to begin the process of planning for your future!"
-    button-link="https://develop.cla.temple.edu/professional-development/career-development-checklist#handshake-an-exclusive-job-portal-for-temple-owls/"
+    button-link="/professional-development/career-development-checklist#handshake---an-exclusive-job-portal-for-temple-owls/"
     button-text="Learn More" %}
   </div>
   <div class="col m12 l4">{% include cards/card2-basic.html
