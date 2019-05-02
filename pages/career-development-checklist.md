@@ -16,3 +16,15 @@ But it’s never too early to start thinking ahead to your career. To simplify t
 - **Build relationships with other students and faculty!** Your network is going to be a valuable source of information, resources and opportunities! 
 - **Attend career events!** They’re free and designed to provide you with access to employment, internships, professional contacts and information about your career field! 
 - **Go explore!** Philadelphia has a lot to offer–from cultural events to awesome restaurants, concerts and entertainment. Get off campus and explore the city–it will be an adventure! 
+
+___
+
+## Handshake - An Exclusive Job Portal For Temple Owls
+Your job/internship search experience just got a whole lot better with Handshake! Easily find the best jobs and internships for you with Handshake’s personalized experience.
+
+- 200+ Professional Development Events & Career Fairs Annualy
+- 200,000+ Employers Actively Recruiting On The Handshake Network
+- 14,000+ Job & Internship Postings Annually for Temple Students
+- 100% of Fortune 500 Companies Use Handshake
+
+**_Log -In Today: [Temple.Joinhandshake.com](https://temple.joinhandshake.com/login)_**
