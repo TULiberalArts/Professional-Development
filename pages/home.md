@@ -32,21 +32,21 @@ ___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-basic.html
-    title="Internship Testimonials"
-    content="Read about what some of our students have said their internship opportunities and experiences!"
-    button-link="https://develop.cla.temple.edu/professional-development/internship-spotlight/"
+    title="Get Started"
+    content="Schedule an appointment to meet with a member of our team to begin the process of planning for your future!"
+    button-link="https://develop.cla.temple.edu/professional-development/career-development-checklist#handshake-an-exclusive-job-portal-for-temple-owls/"
     button-text="Learn More" %}
   </div>
   <div class="col m12 l4">{% include cards/card2-basic.html
-    title="NEED CONTENT"
-    content=""
-    button-link=""
+    title="Post-Internship T-Shirt"
+    content="Have you completed an internship since summer of 2018? If so schedule a time to pick up your “Internship Accomplished” t-shirt!"
+    button-link="https://docs.google.com/forms/d/e/1FAIpQLSfy6UeqseP1_lQUI5Wn5BgcXbBFyPsVID4lJKqpS9J1VJmRQg/viewform?usp=sf_link"
     button-text="Learn More" %}
     </div>
     <div class="col m12 l4">{% include cards/card2-basic.html
-      title="NEED CONTENT"
-      content=""
-      button-link=""
+      title="Internship Testimonials"
+      content=""Each semester several hundred CLA students complete internships throughout the Philadelphia region, and beyond. Take a look below and read about a few of these experiences!"
+      button-link="https://develop.cla.temple.edu/professional-development/internship-spotlight/"
       button-text="Learn More" %}
     </div>
 </div>
