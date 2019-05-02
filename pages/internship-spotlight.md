@@ -7,7 +7,6 @@ published: true
 title: Internship Spotlight
 # custom variables
 ---
-**Need an intro paragraph**
 
 > _Being an intern at the Philadelphia Office of the District Attorney has been such an amazing and humbling experience. It has helped me learn about what I really want to do with my life. I have learned a lot about being hardworking and having to complete many tasks at one time. Although I was assigned to the Family Violence and Sexual Assault (FVSA) unit, I was able to also meet other people and also work with them in the homicide unit, juvenile unit as well as working closely with people in the pre-trial unit. I got to work on a lot of the cases I went to see go on trial. It was amazing observing the court and seeing exactly how things really work. Overall, I have thoroughly enjoyed my time at the Office of the District Attorney. I have also been given the opportunity to apply to a few positions that are opening up. Fingers crossed and prayers up, I will be working there in January 2019!_ - Margaret Osafo
 
