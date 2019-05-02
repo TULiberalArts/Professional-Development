@@ -28,16 +28,6 @@ All of our advisors are Strong Interest Inventory-certified practitioners. The S
 
 **Workshops & Events** - We partner with alumni, faculty, and employers to help every student build a professional network.
 
-## Handshake - An Exclusive Job Portal For Temple Owls
-Your job/internship search experience just got a whole lot better with Handshake! Easily find the best jobs and internships for you with Handshake’s personalized experience.
-
-- 200+ Professional Development Events & Career Fairs Annualy
-- 200,000+ Employers Actively Recruiting On The Handshake Network
-- 14,000+ Job & Internship Postings Annually for Temple Students
-- 100% of Fortune 500 Companies Use Handshake
-
-**_Log -In Today: [Temple.Joinhandshake.com](https://temple.joinhandshake.com/login)_**
-
 ___
 
 <div class="row row-wide">
