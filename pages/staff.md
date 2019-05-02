@@ -62,7 +62,7 @@ Born and raised less than a mile away from Temple’s campus, Jerome’s grit an
 ___
 
 ## Peer Advisors 
-**NEED A DESCRIPTION ABOUT WHAT THE PEER ADVISORS DO**
+We support CLA Professional Development initiatives, including event planning, program development, and social media strategy. We do our best to provide insight into the many facets of the CLA student experience, serving as eyes and ears of  CLA’s student-body—ensuring the CLA Professional Development team is always student-focused and aware of today’s challenges and needs.
 
 ![Najah Springer]({{site.baseurl}}/media/resizedNajah .jpg){:.responsive-img .img-right}
 **[Najah Springer](mailto:najah.springer@temple.edu)**<br>
