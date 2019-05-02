@@ -45,7 +45,7 @@ ___
     </div>
     <div class="col m12 l4">{% include cards/card2-basic.html
       title="Internship Testimonials"
-      content=""Each semester several hundred CLA students complete internships throughout the Philadelphia region, and beyond. Take a look below and read about a few of these experiences!"
+      content="Each semester several hundred CLA students complete internships throughout the Philadelphia region, and beyond. Take a look below and read about a few of these experiences!"
       button-link="https://develop.cla.temple.edu/professional-development/internship-spotlight/"
       button-text="Learn More" %}
     </div>
