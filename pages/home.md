@@ -44,9 +44,9 @@ ___
     button-text="Learn More" %}
     </div>
     <div class="col m12 l4">{% include cards/card2-basic.html
-      title="Internship Testimonials"
-      content="Each semester several hundred CLA students complete internships throughout the Philadelphia region, and beyond. Take a look and read about a few of these experiences!"
-      button-link="https://develop.cla.temple.edu/professional-development/internship-spotlight/"
+      title="Pathways to Professions 2020 Summer Internship Stipend Program"
+      content="Interested in an internship? Learn more about our 2020 Summer Internship Stipend Program!"
+      button-link="https://www.cla.temple.edu/professional-development/internships/"
       button-text="Learn More" %}
     </div>
 </div>
