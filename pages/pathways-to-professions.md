@@ -17,7 +17,7 @@ Internship must meet the following criteria:
 - Non-credit bearing
 - Unpaid
 - Minimum of 150 total hours between May and August of 2020
-- Work is off campus, not Temple University affiliated and not supporting a political campaign
+- Work is off campus, not Temple University affiliated
 - Both domestic and international internships qualify for stipend
 - Meets the National Association of Colleges and Employers [legal internship criteria](http://www.naceweb.org/about-us/advocacy/position-statements/position-statement-us-internships/ )
 - Be currently enrolled as a full-time, degree-seeking, undergraduate student with a primary major declared in the College of Liberal Arts
