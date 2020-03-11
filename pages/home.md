@@ -31,19 +31,19 @@ All of our advisors are Strong Interest Inventory-certified practitioners. The S
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-basic.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Get Started"
     content="Schedule an appointment to meet with a member of our team to begin the process of planning for your future!"
     button-link="/professional-development/career-development-checklist#handshake---an-exclusive-job-portal-for-temple-owls/"
     button-text="Learn More" %}
   </div>
-  <div class="col m12 l4">{% include cards/card2-basic.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Post-Internship T-Shirt"
     content="Have you completed an internship since summer of 2018? If so schedule a time to pick up your “Internship Accomplished” t-shirt!"
     button-link="https://docs.google.com/forms/d/e/1FAIpQLSfy6UeqseP1_lQUI5Wn5BgcXbBFyPsVID4lJKqpS9J1VJmRQg/viewform?usp=sf_link"
     button-text="Learn More" %}
     </div>
-    <div class="col m12 l4">{% include cards/card2-basic.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="2020 Summer Internship Stipend Program"
       content="Interested in an internship? Learn more about our Pathways to Professions 2020 Summer Internship Stipend Program!"
       button-link="https://www.cla.temple.edu/professional-development/internships/"
