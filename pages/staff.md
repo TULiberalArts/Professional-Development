@@ -46,15 +46,3 @@ ___
 Patrick is a baseball writer and entrepreneur who thrives on inspiring and motivating college students to chase their passion as it relates to a career. His resume includes stints with various sports media outlets, including the Philadelphia Daily News and the National Lacrosse League, and he also holds press credentials from Major League Baseball as founder and managing editor of the Philadelphia Baseball Review. In addition to his journalistic ventures, he's also spent the past decade as a mainstay in the proliferation of career services at Temple with 11+ years of experience in various roles related to professional development. "If you want something bad enough, you'll find a way to achieve it," he says. "I'm all about helping students understand the journey can be just as satisfying as the end result." He lives in Horsham with his wife, son, and Goldendoodle named Spring.
 
 **Special Interests:** Entrepreneurship , Creative Careers, Internship Planning, Career Development for Athletes
-
-___
-
-![Jerome Walker]({{site.baseurl}}/media/headshotjerome.jpg){:.responsive-img .img-right}
-**[Jerome Walker](mailto:jwalker@temple.edu)**<br>
-**Career Coach**<br>
-**BS, Shippensburg University, Sociology**<br>
-**MS, Shippensburg University, Counseling — Specializing in Student Personnel/Higher Ed Administration**
-
-Born and raised less than a mile away from Temple’s campus, Jerome’s grit and determination has created many opportunities that align his passion with his purpose. After finishing graduate school, Jerome relocated to Charlotte NC where he began his entrepreneurial journey as he wanted to explore both his passion for fashion and lifestyle. During his time in Charlotte, Jerome was able to create a streetwear/menswear clothing line, work as a part-time visual merchandiser for Michael Kors, and Co-host a podcast. Jerome initially began his professional career while completing his Master’s degree working in Admissions and Multicultural Student Affairs. He then spent 4 years working in community college system In Charlotte, NC where he developed his interest for professional development, transfer and career services. Currently, serving as a career coach in the College of Liberal Arts (CLA) he spends a significant amount of time holistically preparing students for professional internship opportunities. He also oversees the PDSA (Professional Development Student Association) and teach sections of CLA 1002. Jerome’s mission is to help students create a spark as he feels that spark will turn into a flame that is unstoppable!
-
-**Special Interests:** Minority Career Mentoring, Entrepreneurship (Social, Fashion, Lifestyle) , Interviewing, Networking, Transfer Students (non-traditional), First-Generation College Students
