@@ -14,8 +14,6 @@ feature-body: false
 promotion-table: true
 ---
 ![Professional Development Staff]({{site.baseurl}}/media/resizednewprofessionaldevelopmentgroup.jpg){:.responsive-img .img-right}
-Our aim for the duration of the semester is to continue to offer all of the services you'll need to continue to grow as a professional and prepare for post-graduation. In addition to being available for online appointments, we are exploring the possibility of creating several virtual workshops to be hosted on the Zoom platform. We'll also be sharing out information about virtual career fairs and info sessions. **Take care of yourselves and come see us virtually!**
-
 **The CLA Professional Development (PD) Team remains available and fully committed to offering you the best career services possible for the remainder of the semester and beyond.** The only noticeable change is in how we'll serve and meet with you. You will still go on Handshake to schedule one-on-one appointments, but you have three new options to select from:
 
 - **Online via Zoom.** You'll be given a Zoom link which you will click on at your scheduled appointment time to join to meet with a PD team member.
@@ -26,8 +24,6 @@ ___
 
 ## We're Here to Help You Build Your Path!
 The student professional development program within the College of Liberal Arts is committed to enhancing students’ professionalism and empowering students to present themselves successfully as candidates for internship, employment and post-secondary education opportunities.
-
-All of our advisors are Strong Interest Inventory-certified practitioners. The Strong Interest Inventory is a widely used, highly respected and validated career planning tool used to help guide students towards occupations, careers and work environments that fit their intellectual, academic and personal interests. Strong Interest Inventory, along with other career planning tools, are integrated into the College of Liberal Arts' required professional development course and utilized with students in one-on-one professional development appointments. These tools assist our staff in helping students explore options for academic majors, clubs and activities, internships and post-graduation career paths.
 
 ## We Offer:
 **Career Counseling** - We offer individualized attention to each student on topics ranging from career assessments and résumés to interview skills and graduate school preparation.
