@@ -50,8 +50,8 @@ ___
     button-text="Learn More" %}
     </div>
     <div class="col m12 l4">{% include cards/card2-fixed.html
-      title="2020 Summer Internship Stipend Program"
-      content="Interested in an internship? Learn more about our Pathways to Professions 2020 Summer Internship Stipend Program!"
+      title="2021 Summer Internship Stipend Program"
+      content="Interested in an internship? Learn more about our Pathways to Professions 2021 Summer Internship Stipend Program!"
       button-link="https://www.cla.temple.edu/professional-development/internships/"
       button-text="Learn More" %}
     </div>
