@@ -41,6 +41,6 @@ All Pathways to Professions Summer Internship Stipends are applied as scholarshi
  --Please contact or visit [Student Financial Services](https://sfs.temple.edu/about/contact-us) to speak to a representative about your specific account if you are not sure. If you find when speaking to them that there is any issue with you receiving this award in the summer, please contact the Joyce K Salzberg Center for Professional Development team asap.
 - All or a portion of your award may be included in your gross income to the extent that the aggregate amount you receive exceeds (a) tuition and fees required to enroll in, or to attend an educational institution, or (b) fee, books, supplies and equipment that are required for the courses of instruction at Temple University. See IRS Notice 87-31. Therefore, you may be liable for federal income taxes on all or a portion of the award. If you are uncertain as to the federal tax treatment of your award, you should seek the advice of a tax professional. The Internal Revenue Service also provides guidance in their Publication 520, Scholarships and Fellowships. The publication can be obtained from the IRS website at [www .irs.gov](https://www.irs.gov).  
 
-- **Application OPENS on November 30, 2020**<br>
-- **And CLOSES January 25, 2021**<br>
+- **Application OPENS on Monday, November 30, 2020**<br>
+- **And CLOSES Friday, January 29, 2021**<br>
 - **Applicants will hear back by the last day in February**<br> 
