@@ -44,9 +44,9 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="col m12 l4">{% include cards/card2-fixed.html
-    title="Post-Internship T-Shirt"
-    content="Have you completed an internship since summer of 2018? If so schedule a time to pick up your “Internship Accomplished” t-shirt!"
-    button-link="https://docs.google.com/forms/d/e/1FAIpQLSfy6UeqseP1_lQUI5Wn5BgcXbBFyPsVID4lJKqpS9J1VJmRQg/viewform?usp=sf_link"
+    title="Online Resources Available"
+    content="Students are encouraged to use Handshake and explore all of our additional online resources. Visit the Career Center Online Resources page to see what we have to offer!"
+    button-link="https://www.temple.edu/provost/careercenter/resources/online.html"
     button-text="Learn More" %}
     </div>
     <div class="col m12 l4">{% include cards/card2-fixed.html
