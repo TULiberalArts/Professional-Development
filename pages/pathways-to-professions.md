@@ -46,3 +46,5 @@ All Pathways to Professions Summer Internship Stipends are applied as scholarshi
 - **Application OPENS on Monday, November 30, 2020**<br>
 - **And CLOSES Friday, January 29, 2021**<br>
 - **Applicants will hear back by the last day in February**<br> 
+
+**_Please send any questions or concerns regarding the Pathways to Professions Summer Internship Stipend Program to [clasalzbergcenter@temple.edu](mailto:clasalzbergcenter@temple.edu)._**
